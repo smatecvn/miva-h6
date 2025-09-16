@@ -9,12 +9,12 @@ URL: https://smatec.com.vn
 Architecture: aarch64_cortex-a53
 Installed-Size: 122880
 Filename: mgw_h618-bsp_2_aarch64_cortex-a53.ipk
-Size: 20797
-SHA256sum: f82cfe81224e1cc0a89b8c82c83fe06c02bdb0465b5573730694319796e016d4
+Size: 20841
+SHA256sum: 3ec466be4be4282d26cfad2c87a17ef6d34801d61a5885142a61c82a1c0a69d9
 Description:  MGW_H618 Board Support Package
 
 Package: python3-mgw
-Version: rk3328_v3.0.6-1
+Version: miva_v3.0.5p7-1
 Depends: libc, python3
 Source: /home/user/archive-master/smatec-miva-h618-docker/python-mgw
 SourceName: mgwp
@@ -27,9 +27,9 @@ CPE-ID: cpe:/a:smt:mgw
 Maintainer: Nguyen Hong Son <sonnh911@gmail.com>
 Architecture: aarch64_cortex-a53
 Installed-Size: 1464320
-Filename: python3-mgw_rk3328_v3.0.6-1_aarch64_cortex-a53.ipk
-Size: 438744
-SHA256sum: 4ef38da581d448447b32833fa86b93bbb3197ba7b50ce354fe94c541a9d5131e
+Filename: python3-mgw_miva_v3.0.5p7-1_aarch64_cortex-a53.ipk
+Size: 438745
+SHA256sum: 9cd4fc52ed9122e3e6436be2fd50298db2438b97e15a65cd6375621f347d91cc
 Description:  Smatec M-Gateway
  .
  (Variant for Python3)
